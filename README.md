@@ -3,4 +3,4 @@ This code is for paper: "Ensemble Learning of Catchment-Wise Optimized LSTMs Enh
 
 This code took advantage of Neuralhydrology python library and model mts-LSTM in the experiments. The library is accessibe in: https://github.com/neuralhydrology/neuralhydrology
 
-Author: farzad.hosseini@alumnos.unican.es
+Author: farzad.hosseiniATalumnos.unican.es
